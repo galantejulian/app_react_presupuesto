@@ -1,10 +1,11 @@
 ![Screenshot](presupuesto.png)
 
-Proyecto control de presupuesto.
+Budget control project.
 
-Primero se ingresa un presupuesto total. Luego se agrega el nombre del gasto y la cantidad gastada. Del lado derecho se listaran los gastos con su detalle. Se mostrará además el total restante que irá cambiando de color dependiendo de cuanto capital quede disponible.
+First you enter a total budget. Then the name of the expense and the amount spent are added. On the right side, the expenses will be listed with their details. The remaining total will also be shown, which will change color depending on how much capital is available.
 
-Hecho con React.js
+Made with React.js
+🧡
 
 
 
